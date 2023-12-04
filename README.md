@@ -20,7 +20,7 @@ Explore some of my featured repositories to delve into the world of code, data, 
 Feel free to clone, fork, or contribute. I'm always excited to collaborate and learn from fellow enthusiasts.
 
 📚 Continuous Learning
-In the ever-evolving landscape of AI, I believe in the importance of continuous learning. Follow my journey as I share insights, tutorials, and snippets on Github or my website 'parthbathia.com', where I unravel the magic behind the algorithms.
+In the ever-evolving landscape of AI, I believe in the importance of continuous learning. Follow my journey as I share insights, tutorials, and snippets on Github or my [website](parthbathia.com), where I unravel the magic behind the algorithms.
 
 📫 Let's Connect
 If you're as fascinated by the possibilities of machine learning as I am, let's connect! Reach out on [LinkedIn](www.linkedin.com/in/parthbathia), and let's embark on this AI adventure together.
