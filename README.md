@@ -13,9 +13,9 @@ Python is my language of choice, and you'll find a plethora of Pythonic scripts 
 🔍 Featured Repositories
 Explore some of my featured repositories to delve into the world of code, data, and models:
 
-    100 Days of Python Programming: My 100 days of journey in Python Programming. This repository contains Python codes that have helped me become proficient in Python Programming.
-    Gold Price Prediction: Machine Learning capstone project that uses a Random Forest Regressor made from scratch.
-    Object Detection: Deep Learning capstone project that uses Neural Networks made from scratch.
+* 100 Days of Python Programming: My 100 days of journey in Python Programming. This repository contains Python codes that have helped me become proficient in Python Programming.
+* Gold Price Prediction: Machine Learning capstone project that uses a Random Forest Regressor made from scratch.
+* Object Detection: Deep Learning capstone project that uses Neural Networks made from scratch.
 
 Feel free to clone, fork, or contribute. I'm always excited to collaborate and learn from fellow enthusiasts.
 
